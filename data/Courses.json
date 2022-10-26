@@ -1,0 +1,51 @@
+[
+    {
+      "id": "01",
+      "name": "Web Design",
+      "img": "https://www.rankbyfocus.com/wp-content/uploads/2021/10/Emerging-web-design-trends-for-2021.jpeg",
+      "fee": "$199",
+      "detail":"In this course, your will learn UX-UI design with HTML, CSS, Bootstrap etc.  For more details go to Details page.",
+      "details":"In this course, your will learn UX-UI design with HTML, CSS, Bootstrap etc. After completing our course you'll grow your best skill about web design. For more details go to Details page."
+    },
+    {
+      "id": "02",
+      "name": "Graphic Design",
+      "img": "https://d1j8r0kxyu9tj8.cloudfront.net/images/1557567429825mQH8PotXDSI7.jpg",
+      "fee": "$149",
+      "detail":"In this course, you will learn all tools about PS6, Photoshop , PS5,  AI etc.  For more details go to Details page.",
+      "details":"In this course, you will learn all tools about PS6, AI. After completing our course you can design any UX-UI design for world wide application or website. For more details go to Details page."
+    },
+    {
+      "id": "03",
+      "name": "Web Development",
+      "img": "https://miro.medium.com/max/1200/1*pE2fOVDikEUwiQJlh4ggzg.jpeg",
+      "fee": "$299",
+      "detail":"In this course, you will learn HTML, CSS, Bootstrap, JavaScript, Dom and React.  For more details go to Details page.",
+      "details":"In this course, you will learn HTML, CSS, Bootstrap, JavaScript, Dom and React. After completing our course you will get full knowlwdge about web development. For more details go to Details page."
+    },
+    {
+      "id": "04",
+      "name": "Wordpress",
+      "img": "https://kordinate.world/wp-content/uploads/2021/03/Reasons-To-Choose-Wordpress-Development.png",
+      "fee": "$249",
+      "detail":"In this course, you will learn how to  install wordpress and upload any theme and coustomize theme. For more details go to Details page.",
+      "details":"In this course, you will learn all tools about wordpress. First you can install wordpress and upload any theme and coustomize theme for your own chooiceable design.  For more details go to Details page."
+    },
+    {
+      "id": "05",
+      "name": "Digital Marketing",
+      "img": "https://techmoran.com/wp-content/uploads/2018/12/digmark.png",
+      "fee": "$99",
+      "detail":"In this course, you will learn all kinds of social media like facebook, twitter.  For more details go to Details page.",
+      "details":"In this course, you will learn all kinds of marketing rules and tips. You'll learn all kinds of social media like facebook, twitter, instragram, linkdin etc.  For more details go to Details page."
+    },
+    {
+      "id": "06",
+      "name": "Video Editing",
+      "img": "https://cdn.mos.cms.futurecdn.net/6ZSTwXkAVAcsmqP5gvGAKj.jpg",
+      "fee": "$399",
+      "detail":"In this course, you will learn how to edit a professional video. You will more tools for edit. For more details go to Details page.",
+      "details":"In this course, you will learn how to edit a professional video. After completing this course you will get full knowledge about video editing.   For more details go to Details page."
+    }
+    
+  ]
